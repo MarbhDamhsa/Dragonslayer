@@ -1,0 +1,17 @@
+Dragonslayer!
+
+Fight your way through a seemingly endless cavern to purge the land of the evil dragon nest!
+
+DIRECTIONS:
+
+Movement is done using the arrow keys
+
+The 'g' key picks up whatever item resides on your player's tile
+
+The 'i' key displays your player's inventory with the option to use a selected item
+
+The 'd' key displays your inventory with the option to drop a selected item
+
+The 'c' key displays your character's information
+
+The 's' key is used to go down stairs
