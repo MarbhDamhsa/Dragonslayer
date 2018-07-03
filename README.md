@@ -1,2 +1,2 @@
 # Dragonslayer
-A roguelike built in Python utilizing the libtcod
+A roguelike built in Python utilizing the libtcod library
